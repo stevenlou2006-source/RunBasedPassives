@@ -1,0 +1,10 @@
+{
+    "name": "RunBasedPassives",
+    "version_number": "0.4.1",
+    "website_url": "",
+    "description": "QQ群：573485890，局内被动属性成长，通过行动累积升级。",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100",
+        "cn_xc-MoreUIPanel-0.1.0"
+    ]
+}
