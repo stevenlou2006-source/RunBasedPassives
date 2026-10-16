@@ -92,3 +92,14 @@ A：屏幕左下角会实时显示等级和进度。需要 MoreUIPanel 依赖。
 
 **Q：能否手动调整阈值？**  
 A：暂不支持，可通过修改源码中的常数自行编译。
+
+
+---
+
+## 许可证
+
+本项目以 **GNU General Public License v3.0** 发布。
+
+Copyright (C) 2026 cn_xc
+
+完整条款见仓库根目录 [LICENSE](LICENSE)。
